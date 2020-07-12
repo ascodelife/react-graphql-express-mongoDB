@@ -6,7 +6,7 @@
 1. 直接clone本项目
 
     ```
-    git clone
+    git clone https://github.com/ascodelife/react-graphql-express-mongoDB
     ```
 
 2. 安装依赖
